@@ -1,0 +1,53 @@
+﻿@model List<Todooo.Models.Todo>
+    @using Todooo.Enum
+
+    <h1 class="mb-4 text-primary fw-bold">Liste des Todos</h1>
+
+    <div class="d-flex mb-3 gap-2">
+        <a asp-action="Add" class="btn btn-success">
+            Ajouter un Todo
+        </a>
+
+        <a asp-controller="User" asp-action="Logout" class="btn btn-outline-danger">
+            Déconnexion
+        </a>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-hover align-middle">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Libele</th>
+                            <th>Description</th>
+                            <th>Date limite</th>
+                            <th>Statut</th>
+                            <th class="text-center">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var todo in Model)
+                    {
+                        <tr>
+                            <td>@todo.libele</td>
+                            <td>@todo.discription</td>
+                            <td>@todo.datelimite.ToString("dd/MM/yyyy")</td>
+                            <td>
+                                <span class="badge bg-info">@todo.statut</span>
+                            </td>
+                            <td class="text-center">
+                                <a asp-action="Edit" asp-route-index="@Model.IndexOf(todo)" class="btn btn-sm btn-warning me-1">
+                                    Modifier
+                                </a>
+                                <a asp-action="Delete" asp-route-index="@Model.IndexOf(todo)" class="btn btn-sm btn-danger">
+                                    Supprimer
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>

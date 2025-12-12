@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Todooo",
+    "\\Todooo\\Todooo",
+    "\\Todooo\\Todooo\\Controllers",
+    "\\Todooo\\Todooo\\Enum",
+    "\\Todooo\\Todooo\\Filters",
+    "\\Todooo\\Todooo\\Mappers",
+    "\\Todooo\\Todooo\\Models",
+    "\\Todooo\\Todooo\\Views",
+    "\\Todooo\\Todooo\\Views\\User"
+  ],
+  "SelectedNode": "\\Todooo\\Todooo\\Views\\Todo\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

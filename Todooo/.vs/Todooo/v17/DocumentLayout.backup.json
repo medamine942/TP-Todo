@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\hp\\source\\repos\\Todooo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\mappers\\todomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\mappers\\todomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\enum\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\enum\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\viewmodel\\todoaddvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\viewmodel\\todoaddvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\viewmodel\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\viewmodel\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\services\\sessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\services\\sessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\services\\isessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\services\\isessionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\todooo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\todooo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|d:\\users\\hp\\source\\repos\\todooo\\todooo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todooo.csproj|solutionrelative:todooo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Todooo\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Todooo\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:01:33.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Todooo\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "Todooo\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T14:08:09.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Todooo\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "Todooo\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T10:50:35.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Todooo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Todooo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T17:43:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Filters\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "Todooo\\Filters\\LogActionFilter.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Filters\\LogActionFilter.cs",
+              "RelativeToolTip": "Todooo\\Filters\\LogActionFilter.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:28:24.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Todomapper.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Mappers\\Todomapper.cs",
+              "RelativeDocumentMoniker": "Todooo\\Mappers\\Todomapper.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Mappers\\Todomapper.cs",
+              "RelativeToolTip": "Todooo\\Mappers\\Todomapper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:56:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Program.cs",
+              "RelativeDocumentMoniker": "Todooo\\Program.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Program.cs",
+              "RelativeToolTip": "Todooo\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T10:53:20.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Todooo\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Todooo\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:28:29.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SessionManagerService.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Services\\SessionManagerService.cs",
+              "RelativeDocumentMoniker": "Todooo\\Services\\SessionManagerService.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Services\\SessionManagerService.cs",
+              "RelativeToolTip": "Todooo\\Services\\SessionManagerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T17:16:22.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Todooo\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Todooo\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T19:01:33.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\Todo\\Add.cshtml",
+              "RelativeDocumentMoniker": "Todooo\\Views\\Todo\\Add.cshtml",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\Todo\\Add.cshtml",
+              "RelativeToolTip": "Todooo\\Views\\Todo\\Add.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T10:52:48.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Todooo\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Services\\AuthService.cs",
+              "RelativeToolTip": "Todooo\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:20:58.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Todooo\\Services\\LoginService.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Services\\LoginService.cs",
+              "RelativeToolTip": "Todooo\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:52:33.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Todooo\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Todooo\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T13:34:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Enum\\State.cs",
+              "RelativeDocumentMoniker": "Todooo\\Enum\\State.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Enum\\State.cs",
+              "RelativeToolTip": "Todooo\\Enum\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T10:42:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoAddvm.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\ViewModel\\TodoAddvm.cs",
+              "RelativeDocumentMoniker": "Todooo\\ViewModel\\TodoAddvm.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\ViewModel\\TodoAddvm.cs",
+              "RelativeToolTip": "Todooo\\ViewModel\\TodoAddvm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T10:36:33.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Uservm.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\ViewModel\\Uservm.cs",
+              "RelativeDocumentMoniker": "Todooo\\ViewModel\\Uservm.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\ViewModel\\Uservm.cs",
+              "RelativeToolTip": "Todooo\\ViewModel\\Uservm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:23:31.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISessionManagerService.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Services\\ISessionManagerService.cs",
+              "RelativeDocumentMoniker": "Todooo\\Services\\ISessionManagerService.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Services\\ISessionManagerService.cs",
+              "RelativeToolTip": "Todooo\\Services\\ISessionManagerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:32:07.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Todooo\\Models\\User.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Models\\User.cs",
+              "RelativeToolTip": "Todooo\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:49:12.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Todooo\\Models\\Todo.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Models\\Todo.cs",
+              "RelativeToolTip": "Todooo\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:34:14.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Todooo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Todooo\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:48:13.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Todooo.csproj",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Todooo.csproj",
+              "RelativeDocumentMoniker": "Todooo\\Todooo.csproj",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Todooo.csproj",
+              "RelativeToolTip": "Todooo\\Todooo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-07T10:14:50.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Todooo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Users\\hp\\source\\repos\\Todooo\\Todooo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Todooo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-07T11:11:44.719Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
