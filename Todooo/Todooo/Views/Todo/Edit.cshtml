@@ -1,0 +1,44 @@
+﻿@model Todoo.ViewModel.TodoAddvm
+
+<h2 style="font-weight:700;color:#2d6cdf;margin-bottom:20px;">Modifier le Todo</h2>
+
+<form asp-action="Edit" method="post" style="background:#f5f7ff;padding:25px;border-radius:12px;">
+    <input type="hidden" name="index" value="@ViewBag.Index" />
+    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Libele" style="font-weight:600;"></label>
+        <input asp-for="Libele" class="form-control"
+               style="border-radius:8px;border:1px solid #c6d4ff;padding:10px;" />
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Description" style="font-weight:600;"></label>
+        <input asp-for="Description" class="form-control"
+               style="border-radius:8px;border:1px solid #c6d4ff;padding:10px;" />
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Datelimite" style="font-weight:600;"></label>
+        <input asp-for="Datelimite" type="date" class="form-control"
+               style="border-radius:8px;border:1px solid #c6d4ff;padding:10px;" />
+    </div>
+
+    <div class="form-group mb-3 fw-semibold">
+        <label asp-for="Statut"></label><br />
+        Todo <input type="radio" value="@(Todoo.Enum.State.Todo)" asp-for="Statut" class="me-3 ms-1" />
+        Doing <input type="radio" value="@(Todoo.Enum.State.Doing)" asp-for="Statut" class="me-3 ms-1" />
+        Done <input type="radio" value="@(Todoo.Enum.State.Done)" asp-for="Statut" class="ms-1" />
+    </div>
+
+    <button type="submit"
+            style="background:#2d6cdf;color:white;padding:10px 20px;border:none;border-radius:8px;font-weight:600;">
+        Modifier
+    </button>
+</form>
+
+<a asp-action="Index"
+   style="display:inline-block;margin-top:15px;background:#6c757d;color:white;
+   padding:8px 16px;border-radius:8px;text-decoration:none;">
+    Retour
+</a>

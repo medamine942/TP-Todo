@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\viewmodel\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\viewmodel\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\viewmodel\\todoaddvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\viewmodel\\todoaddvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|c:\\users\\dell\\desktop\\todo\\todooo\\todooo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9281E308-B21A-415B-AFA6-FF3FB8F131C1}|Todooo\\Todo.csproj|solutionrelative:todooo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Todooo\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Todooo\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T20:33:53.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Todooo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Todooo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T20:33:49.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Todooo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Todooo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T20:32:51.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Uservm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\ViewModel\\Uservm.cs",
+              "RelativeDocumentMoniker": "Todooo\\ViewModel\\Uservm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\ViewModel\\Uservm.cs",
+              "RelativeToolTip": "Todooo\\ViewModel\\Uservm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:48.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoAddvm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\ViewModel\\TodoAddvm.cs",
+              "RelativeDocumentMoniker": "Todooo\\ViewModel\\TodoAddvm.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\ViewModel\\TodoAddvm.cs",
+              "RelativeToolTip": "Todooo\\ViewModel\\TodoAddvm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:45.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Todooo\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Services\\AuthService.cs",
+              "RelativeToolTip": "Todooo\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:43.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Todooo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Models\\User.cs",
+              "RelativeToolTip": "Todooo\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:40.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Todooo\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Models\\Todo.cs",
+              "RelativeToolTip": "Todooo\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:37.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Filters\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "Todooo\\Filters\\LogActionFilter.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Filters\\LogActionFilter.cs",
+              "RelativeToolTip": "Todooo\\Filters\\LogActionFilter.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:33.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Todooo\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Todooo\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:28.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Todooo\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Todooo\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:19.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Todooo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Todo\\Todooo\\Todooo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Todooo\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:53:46.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
