@@ -7,10 +7,6 @@
         <a asp-action="Add" class="btn btn-success">
             Ajouter un Todo
         </a>
-
-        <a asp-controller="User" asp-action="Logout" class="btn btn-outline-danger">
-            Déconnexion
-        </a>
     </div>
 
     <div class="card shadow-sm">
@@ -30,11 +26,11 @@
                         @foreach (var todo in Model)
                     {
                         <tr>
-                            <td>@todo.libele</td>
-                            <td>@todo.discription</td>
-                            <td>@todo.datelimite.ToString("dd/MM/yyyy")</td>
+                            <td>@todo.Libele</td>
+                            <td>@todo.Description</td>
+                            <td>@todo.Datelimite.ToString("dd/MM/yyyy")</td>
                             <td>
-                                <span class="badge bg-info">@todo.statut</span>
+                                <span class="badge bg-info">@todo.Statut</span>
                             </td>
                             <td class="text-center">
                                 <a asp-action="Edit" asp-route-index="@Model.IndexOf(todo)" class="btn btn-sm btn-warning me-1">

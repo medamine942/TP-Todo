@@ -2,6 +2,6 @@
 {
     public enum State
     {
-        doing=1, todo=0,donne=2
+        Doing = 1, Todo = 0, Done = 2
     }
 }

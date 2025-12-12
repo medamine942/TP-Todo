@@ -9,7 +9,7 @@ namespace Todooo.Models
         
         public string Description { get; set; }
   
-        public dateTime Datelimite { get; set; }
+        public DateTime Datelimite { get; set; }
   
         public State Statut { get; set; }
     }

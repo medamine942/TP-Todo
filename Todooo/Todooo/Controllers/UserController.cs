@@ -56,17 +56,7 @@ namespace Todooo.Controllers
 
             return RedirectToAction("Add", "Todo");
         }
-        public IActionResult Logout()
-        {
-            string email = HttpContext.Session.GetString("user");
-            if (!string.IsNullOrEmpty(email))
-            {
-                _logger.LogInformation($"Utilisateur déconnecté : {email}");
-            }
-
-            HttpContext.Session.Remove("user");
-            return RedirectToAction("Login"); 
-        }
+      
 
 
     }

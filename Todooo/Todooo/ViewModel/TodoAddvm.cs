@@ -11,7 +11,7 @@ namespace Todooo.ViewModel
         public string Description { get; set; }
         [Required(ErrorMessage = "obligatoire")]
         [DataType(DataType.Date)]
-        public dateTime Datelimite { get; set; }
+        public DateTime Datelimite { get; set; }
         [Required]
         public State Statut {  get; set; }
 
